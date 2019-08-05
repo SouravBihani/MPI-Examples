@@ -1,0 +1,9 @@
+jobid : 9927318
+
+n : 8
+
+nnodes : 8
+
+ncores : 64
+
+Tp : 109.475
